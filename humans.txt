@@ -1,0 +1,13 @@
+/* SITE INFORMATION */
+
+	Site name:  Put Website Title Here
+	Site URL:   https://websitetitle.com/
+	Web design: Author's name
+	About.me:   https://authors.web
+	Facebook:   https://www.facebook.com/authorsfb
+	Github:	    https://github.com/authorsgithub
+	Contact:    author@email.com
+	Location:   HR (Croatia)
+	Built with: HTML, CSS, JavaScript, .htaccess
+	Launched:   201X
+	Version:    0.0.1
